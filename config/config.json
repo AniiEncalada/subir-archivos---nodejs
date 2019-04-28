@@ -1,0 +1,17 @@
+{
+    "development": {
+        "username": "root",
+        "password": "2607anabel2016cordova",
+        "database": "archivos",
+        "host": "localhost",
+        "dialect": "mysql",
+        "operatorsAliases": false
+    },
+    "staging": {
+        "username": "root",
+        "password": "2607anabel2016cordova",
+        "database": "archivos",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
